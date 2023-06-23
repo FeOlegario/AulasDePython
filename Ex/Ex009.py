@@ -10,5 +10,5 @@ print(
 for T in range(1,11):
     result = NI * T
     print(
-        f"""    {NI} x {T} = {result}"""
+        f"""    {NI} x {T:2} = {result:2}"""
     )
